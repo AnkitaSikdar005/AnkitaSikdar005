@@ -37,4 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitasikdar005&show_icons=true&locale=en" alt="ankitasikdar005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitasikdar005&" alt="ankitasikdar005" /></p>
-[![@ankitasikdar's Holopin board](https://holopin.me/ankitasikdar)](https://holopin.io/@ankitasikdar)
+[![An image of @ankitasikdar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitasikdar)](https://holopin.io/@ankitasikdar)
