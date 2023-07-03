@@ -37,5 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitasikdar005&show_icons=true&locale=en" alt="ankitasikdar005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitasikdar005&" alt="ankitasikdar005" /></p>
-![HACKTOBER](https://github.com/AnkitaSikdar005/AnkitaSikdar005/assets/115947852/48a2d0c7-c918-48c0-8778-0dec4e5f9396)
+
+[![An image of @ankitasikdar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitasikdar)](https://holopin.io/@ankitasikdar)
 
