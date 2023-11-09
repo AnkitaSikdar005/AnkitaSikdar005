@@ -3,12 +3,16 @@
 <h3 align="center">Interested in full stack web development and also aspire to be a software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitasikdar005&label=Profile%20views&color=0e75b6&style=flat" alt="ankitasikdar005" /> </p>
-
+<h3 align="left">Github Trophies🏆:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitasikdar005" alt="ankitasikdar005" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌿 I’m currently perusing **B.TECH(IT)** at **Netaji Subhas Engineering College**
 - 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT**
+- ⚡ Participated in **HACKTOBERFEST 2022 & 2023**
+- 🏆 **RANK-22** , **Team - Idea Mate** ;at **HACKSQUAD 2023** organised by *NOVU* 
+
 
 - 💬 Ask me about **Java,C,Web dev**
 
