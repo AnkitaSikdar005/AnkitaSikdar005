@@ -44,12 +44,8 @@
 
 ## 💫 Github Stats
 
-<table>    
-<tr>
-  <td align="center">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitaSikdar005&theme=synthwave" />
-  </td>
-</tr>
+   
+
 
 <tr>
   <td align="center">
@@ -59,7 +55,7 @@
     <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaSikdar005&layout=compact&theme=synthwave&langs_count=15" /> 
   </td>
 </tr>
-</table>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitaSikdar005&theme=synthwave-84&true&hide_border=true" />
