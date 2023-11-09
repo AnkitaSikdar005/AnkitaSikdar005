@@ -50,13 +50,7 @@
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitaSikdar005&theme=synthwave" />
   </td>
 </tr>
-</table>
 
-<div align="center">
-    <img width="600" src="https://github-profile-trophy.vercel.app/?username=AnkitaSikdar005&theme=dracula&column=5" /> 
-</div>
-
-<table>    
 <tr>
   <td align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=AnkitaSikdar005&show_icons=true&theme=synthwave&include_all_commits=true" />
