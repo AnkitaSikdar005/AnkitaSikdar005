@@ -54,3 +54,10 @@
 
 [![An image of @ankitasikdar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitasikdar)](https://holopin.io/@ankitasikdar)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+### Github Stats by Quine :
+[![AnkitaSikdar005's GitHub | Stats](https://stats.quine.sh/AnkitaSikdar005/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnkitaSikdar005)
+[![AnkitaSikdar005's GitHub | Dependencies](https://stats.quine.sh/AnkitaSikdar005/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnkitaSikdar005)
+[![AnkitaSikdar005's GitHub | Topics Over Time](https://stats.quine.sh/AnkitaSikdar005/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnkitaSikdar005) 
+[![AnkitaSikdar005's GitHub | Languages Over Time](https://stats.quine.sh/AnkitaSikdar005/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnkitaSikdar005)
