@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ankitasikdar005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ankitasikdar005" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankita sikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita sikdar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankita-sikdar-70210a253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita sikdar" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ankitasikdar005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ankitasikdar005" height="30" width="40" /></a>
 <a href="https://instagram.com/a_n_k_i_t_a_s_i_k_d_a_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_n_k_i_t_a_s_i_k_d_a_r" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ank_sikdar2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ank_sikdar2003" height="30" width="40" /></a>
