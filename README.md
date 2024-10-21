@@ -56,13 +56,13 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-<h2 align="center">Leetcode Stats 🧑‍💻</h2>
+<!---<h2 align="center">Leetcode Stats 🧑‍💻</h2>
 
 <div align="center">
     <height="250" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
     <img height="250" alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/AnkitaSikdar?theme=unicorn&font=Josefin%20Slab&ext=heatmap" />
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />--->
 
 ### Github Stats by Quine :
 [![AnkitaSikdar005's GitHub | Stats](https://stats.quine.sh/AnkitaSikdar005/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnkitaSikdar005)
