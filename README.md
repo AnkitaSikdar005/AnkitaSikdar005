@@ -9,9 +9,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌿 I’m currently perusing **B.TECH(IT)** at **Netaji Subhas Engineering College**
-- 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT**
+- 🌱 I’m currently focusing on **Full Stack Web Development**
 - ⚡ Participated in **HACKTOBERFEST 2022 & 2023**
-- 🏆 **RANK-22** , **Team - Idea Mate** ;at **HACKSQUAD 2023** organised by *NOVU* 
+- 🏆 **RANK-22** , **Team - Idea Mate** ;at **HACKSQUAD 2023** organised by *NOVU*
+- 🏆 **RANK-1**  , **Team - CodeBlooded**;at **HackOdisha4.0** organized by *WEBWIZ.NITR, NIT Rourkela!* 
 
 
 - 💬 Ask me about **Java,C,Web dev**
