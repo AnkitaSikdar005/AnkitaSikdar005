@@ -65,12 +65,7 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />--->
 
-### Github Stats by Quine :
-[![AnkitaSikdar005's GitHub | Stats](https://stats.quine.sh/AnkitaSikdar005/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnkitaSikdar005)
-[![AnkitaSikdar005's GitHub | Dependencies](https://stats.quine.sh/AnkitaSikdar005/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnkitaSikdar005)
-[![AnkitaSikdar005's GitHub | Topics Over Time](https://stats.quine.sh/AnkitaSikdar005/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnkitaSikdar005) 
-[![AnkitaSikdar005's GitHub | Languages Over Time](https://stats.quine.sh/AnkitaSikdar005/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnkitaSikdar005)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitaSikdar005&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitaSikdar005" /> </p>
