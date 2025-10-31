@@ -54,6 +54,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 ### My Hacktober 2022 & 2023 badge Collection:
+
 [![An image of @ankitasikdar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitasikdar)](https://holopin.io/@ankitasikdar)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
