@@ -5,11 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitasikdar005&label=Profile%20views&color=0e75b6&style=flat" alt="ankitasikdar005" /> </p>
 <h3 align="left">Github Trophies:</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=AnkitaSikdar005&theme=synthwavek&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AnkitaSikdar005&theme=synthwave&no-frame=true&no-bg=true&margin-w=4)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" /> 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/your_username" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/your_username?logo=twitter&style=for-the-badge" />
+  </a>
+</p>
 
 - 🌿 I’m currently perusing **B.TECH(IT)** at **Netaji Subhas Engineering College**
 - 🌱 I’m currently focusing on **Full Stack Web Development**
